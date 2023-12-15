@@ -1,4 +1,4 @@
 # Table of contents
 
-* [ZORG-ID](README.md)
+* [ZORG-ID Architectuur](README.md)
 * [Bedrijfsarchitectuur](bedrijfsarchitectuur.md)
