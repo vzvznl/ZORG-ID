@@ -19,6 +19,8 @@ Deze site heeft tot doel de architectuur van ZORG-ID te beschrijven, een systeem
 
 Deze architectuurbeschrijving is bedoeld voor zorginstellingen, leveranciers van zorginformatiesystemen, en andere belanghebbenden die betrokken zijn bij identificatie en authenticatie in de zorgsector. Het biedt een overzicht van de belangrijkste aspecten van de functionaliteit en mogelijkheden van ZORG-ID. Tevens worden relevante standaarden en protocollen toegelicht. De beschrijving is opgedeeld in drie hoofdsecties: 'Bedrijfsarchitectuur', 'Informatiesystemen architectuur' en 'Technologie architectuur'.
 
+<figure><img src=".gitbook/assets/ZORG-ID-Architectuur.jpg" alt=""><figcaption><p>ZORG-ID Architectuur</p></figcaption></figure>
+
 ### Eenheid van Taal
 
 De architectuur van ZORG-ID heeft zich ontwikkeld sinds de start van het project, gebaseerd op de initiële architectuurvisie. In de loop der tijd hebben veranderingen plaatsgevonden in de zorgsector en in technologische ontwikkelingen. De groeiende complexiteit van de sector en invloeden van nieuwe initiatieven, zoals \[vermeld relevante initiatieven], hebben geleid tot een evolutie in het taalgebruik binnen ZORG-ID om de diversiteit in de zorgsector effectief te adresseren.
