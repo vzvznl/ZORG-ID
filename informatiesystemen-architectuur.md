@@ -27,6 +27,6 @@ Voor token-gebaseerde authenticatie/autorisatie biedt het systeem identiteiten m
 #### Signing functionaliteit
 
 * Volgt de 'NEN-EN 419241 Trustworthy Systems Supporting Server Signing'
-* Maakt gebruik van identiteitsattribuutcertificaten voor het ondertekenen van transacties.
-* bla bla
+* Maakt gebruik van identiteitsattribuut certificaten voor het ondertekenen van transacties.
+* ...
 
