@@ -7,6 +7,10 @@ description: >-
 
 # ZORG-ID Architectuur
 
+##
+
+<figure><img src=".gitbook/assets/Logo_ZorgID.png" alt="" width="300"><figcaption></figcaption></figure>
+
 ## Inleiding
 
 ### Doel en aanleiding
