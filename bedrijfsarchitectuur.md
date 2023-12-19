@@ -6,3 +6,30 @@ description: >-
 
 # Bedrijfsarchitectuur
 
+## ZORG-ID
+
+abc
+
+
+
+## Positie van ZORG-ID
+
+
+
+## Juridische kaders
+
+
+
+## Scenario's
+
+
+
+## Use-cases
+
+
+
+## Bedrijfsobjecten
+
+
+
+## Kwaliteitseisen
