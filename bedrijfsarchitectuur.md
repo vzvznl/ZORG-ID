@@ -48,13 +48,11 @@ ZORG-ID SMART (ZORG-ID met Smartphone) biedt verschillende functionaliteiten aan
 
 #### Eindgebruikers
 
-
-
-| Use-case | Omschrijving              | Betrokken actoren |
-| -------- | ------------------------- | ----------------- |
-|          | Open sessie/authenticatie | ZORG applicatie   |
-|          | Scan WID                  |                   |
-|          | Ondertekenen van token    |                   |
+| Use-case   | Omschrijving              | Betrokken actoren                                          |
+| ---------- | ------------------------- | ---------------------------------------------------------- |
+| ZID-UC-001 | Open sessie/authenticatie | <ul><li>ZORG applicatie</li><li>(Zorg)medewerker</li></ul> |
+| ZID-UC-002 | Scan WID                  |                                                            |
+| ZID-UC-003 | Ondertekenen van token    |                                                            |
 
 #### Backoffice administratie
 
