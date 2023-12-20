@@ -40,9 +40,9 @@ abc
 ZORG-ID SMART (ZORG-ID met Smartphone) biedt verschillende functionaliteiten aan, dat gebruikers in staat stelt om identiteitsgegevens, inloggegevens en attributen uit te kunnen lezen en op te slaan, die aan een identiteit zijn gekoppeld en deze op verzoek aan vertrouwde partijen te verstrekken en te gebruiken voor authenticatie en om (gekwalificeerde) elektronische handtekeningen te creëren.
 
 * Een WID (Wet Identificatie bij Dienstverlening) scan kunnen uitvoeren (om de identiteit van een patiënt vast te stellen a.d.h.v. een wettelijk identiteitsbewijs)&#x20;
-* Lokaal inloggen door (zorg) medewerkers met Smartphone
+* Lokaal inloggen door (zorg) medewerkers met UZI-pas of Smartphone
 * Lokale autorisatie vastleggen a.d.h.v. (uitgegeven en vastgelegde) attributen
-* Ondertekenen met lokale identiteit (via Smartphone)
+* Ondertekenen met lokale identiteit met UZI-pas of Smartphone
 * Ondertekenen van inschrijftoken voor landelijke gegevensuitwisseling&#x20;
 
 ## Use-cases
