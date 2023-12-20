@@ -25,7 +25,7 @@ abc
   * Cryptografie: PKI maakt gebruik van sterke crypto grafische technieken, zoals digitale handtekeningen en versleuteling, om de vertrouwelijkheid en integriteit van informatie te waarborgen.
   * Elektronische identificatie en authenticatie met hoog betrouwbaarheidsniveau: PKI zorgt voor een betrouwbaar identificatie- en authenticatiemechanisme, waardoor logging en monitoring nauwkeuriger en traceerbaarder worden.
 * Toetsen van attributen: Een sterke identiteit wordt getoetst aan attributen om de organisatie, rol en codering van deze identiteit verder te specificeren.
-* NIS2-richtlijnen (Netwerk- en Informatiesystemen) is gericht op het verhogen van de cybersecurity in de Europese Unie. Een PKI-infrastructuur (Public Key Infrastructure) voor authenticatie kan bijdragen aan de naleving van NIS2 door enkele kernprincipes van de richtlijn te ondersteunen, zoals:
+* NIS2-richtlijnen (Netwerk- en Informatiesystemen) zijn eind 2022 vastgesteld door de Europese Unie en is gericht op een versterking van de digitale en economische weerbaarheid van de Europese lidstaten. Een PKI-infrastructuur (Public Key Infrastructure) voor authenticatie kan hierbij bijdragen aan de naleving van de NIS2-richtlijen door enkele kernprincipes van de richtlijn te ondersteunen, zoals:
   * Beveiliging van netwerk en Informatiesystemen. Zie toegangscontrole (Artikel 7) en maatregelen voor beveiliging (Artikel 14)
   * Incidentenrapportage. Zie traceerbaarheid (Artikel 14 en 15)
   * Samenwerking en informatie uitwisseling. Vertrouwelijkheid en Interoperabiliteit (Artikel 12)
