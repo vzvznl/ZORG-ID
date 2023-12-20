@@ -48,6 +48,16 @@ ZORG-ID SMART (ZORG-ID met Smartphone) biedt verschillende functionaliteiten aan
 
 
 
+#### Backoffice administratie
+
+
+
+#### Backoffice administratie voor personeelsbeheer van zorgorganisaties
+
+#### Eindgebruikers
+
+
+
 
 
 ## Bedrijfsobjecten
