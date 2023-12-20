@@ -8,13 +8,9 @@ description: >-
 
 ## ZORG-ID
 
-abc
-
-
+ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificatie en authenticatie in de zorg. ZORG-ID kent een veelheid aan toepassingen in de zorg, voldoet aan alle relevante standaarden van wet- en regelgeving en maakt een snelle en eenvoudige integratie mogelijk in zorgapplicaties ook met het oog op toekomstige ontwikkelingen en/of veranderingen op dit gebied.
 
 ## Positie van ZORG-ID
-
-
 
 ## Kaders
 
