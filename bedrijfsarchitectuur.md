@@ -46,7 +46,15 @@ ZORG-ID SMART (ZORG-ID met Smartphone) biedt verschillende functionaliteiten aan
 
 ## Use-cases
 
+#### Eindgebruikers
 
+
+
+| Use-case | Omschrijving              | Betrokken actoren |
+| -------- | ------------------------- | ----------------- |
+|          | Open sessie/authenticatie | ZORG applicatie   |
+|          | Scan WID                  |                   |
+|          | Ondertekenen van token    |                   |
 
 #### Backoffice administratie
 
@@ -54,7 +62,7 @@ ZORG-ID SMART (ZORG-ID met Smartphone) biedt verschillende functionaliteiten aan
 
 #### Backoffice administratie voor personeelsbeheer van zorgorganisaties
 
-#### Eindgebruikers
+####
 
 
 
