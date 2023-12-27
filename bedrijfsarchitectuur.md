@@ -60,13 +60,21 @@ De use cases voor eindgebruikers tonen de gebruiksscenario's die verband houden 
 
 Het gebruiksscenario 'patiënt aanmelden', waarin een ' inschrijftoken' wordt gecreëerd, wordt niet beschouwd als een gebruiksscenario vanuit ZORG-ID Smart. Deze use-case wordt geïmplementeerd door de aanvrager via een combinatie van de volgende use-case: 'Open sessie', 'Token ophalen' en 'Token ondertekenen'.&#x20;
 
-<table><thead><tr><th width="161">Use-case</th><th>Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-001</td><td>Open sessie (authenticatie)</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-002</td><td>Scan WID</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-003</td><td>Token ophalen</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-004</td><td>Token ondertekenen</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="202">Use-case</th><th>Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-EU-001</td><td>Open sessie (authenticatie)</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-002</td><td>Scan WID</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-003</td><td>Token ophalen</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-004</td><td>Token ondertekenen</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr></tbody></table>
 
 #### Backoffice administratie
 
-abc
+De use-cases voor backoffice-administratie betreffen de registratie en het beheer van attributen, type-invoer, administratieve gebruikers van organisaties en systeemvermeldingen voor gezondheidsorganisaties.
+
+Het volgende tabel geeft een overzicht van de use-cases voor backoffice-administratie.
 
 
+
+| Use-case | Omschrijving | Betrokken actoren |
+| -------- | ------------ | ----------------- |
+|          |              |                   |
+|          |              |                   |
+|          |              |                   |
 
 #### Backoffice administratie voor personeelsbeheer van zorgorganisaties
 
