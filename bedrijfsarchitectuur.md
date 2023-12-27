@@ -54,15 +54,15 @@ De volgende Use cases zijn op ZORG-ID Smart gericht.
 
 
 
-#### Eindgebruikers
+#### Eindgebruikers (End User)
 
 De use cases voor eindgebruikers tonen de gebruiksscenario's die verband houden met eindgebruikers. De aanvrager-actor is in het use-case model een gezondheidszorgtoepassing.&#x20;
 
 Het gebruiksscenario 'patiënt aanmelden', waarin een ' inschrijftoken' wordt gecreëerd, wordt niet beschouwd als een gebruiksscenario vanuit ZORG-ID Smart. Deze use-case wordt geïmplementeerd door de aanvrager via een combinatie van de volgende use-case: 'Open sessie', 'Token ophalen' en 'Token ondertekenen'.&#x20;
 
-<table><thead><tr><th width="202">Use-case</th><th>Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-EU-001</td><td>Open sessie (authenticatie)</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-002</td><td>Scan WID</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-003</td><td>Token ophalen</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-004</td><td>Token ondertekenen</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="202">Use-case</th><th>Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-EU-001</td><td>Open Sessie (authenticatie)</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-002</td><td>Scan WID</td><td><ul><li>Gezondheidszorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-003</td><td>Ophalen Token</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-004</td><td>Ondertekenen Token</td><td><ul><li>Gezondheidszorgtoepassing</li></ul></td></tr></tbody></table>
 
-#### Backoffice administratie
+#### Backoffice administratie (Backoffice Administration)
 
 De use-cases voor backoffice-administratie betreffen de registratie en het beheer van attributen, type-invoer, administratieve gebruikers van organisaties en systeemvermeldingen voor gezondheidsorganisaties.
 
@@ -70,15 +70,15 @@ Het volgende tabel geeft een overzicht van de use-cases voor backoffice-administ
 
 
 
-| Use-case | Omschrijving | Betrokken actoren |
-| -------- | ------------ | ----------------- |
-|          |              |                   |
-|          |              |                   |
-|          |              |                   |
+<table><thead><tr><th>Use-case</th><th width="173">Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-BA-001</td><td>Inschrijven Attribuuttype</td><td><ul><li>ZORG-ID beheerder (AET)</li></ul></td></tr><tr><td>ZID-UC-BA-002</td><td>Uitschrijven Attribuuttype</td><td><ul><li>ZORG-ID beheerder (AET)</li></ul></td></tr><tr><td>ZID-UC-BA-003</td><td>Authenticatie</td><td><ul><li>ZORG-ID beheerder (AET)</li><li>ZORG-ID beheerder (VZVZ)</li></ul></td></tr><tr><td>ZID-UC-BA-004</td><td>Inschrijven Zorgaanbieder</td><td><ul><li>ZORG-ID beheerder (VZVZ)</li></ul></td></tr><tr><td>ZID-UC-BA-005</td><td>Uitschrijven Zorgaanbieder</td><td><ul><li>ZORG-ID beheerder (VZVZ)</li></ul></td></tr><tr><td>ZID-UC-BA-006</td><td>Inschrijven ZORG-ID beheerder </td><td><ul><li>ZORG-ID beheerder (VZVZ)</li></ul></td></tr><tr><td>ZID-UC-BA-007</td><td>Inschrijven Organisatie beheerder</td><td><ul><li>ZORG-ID beheerder (VZVZ)</li></ul></td></tr><tr><td>ZID-UC-BA-008</td><td>Uitschrijven Organisatie beheerder</td><td><ul><li>ZORG-ID beheerder (VZVZ)</li></ul></td></tr></tbody></table>
 
-#### Backoffice administratie voor personeelsbeheer van zorgorganisaties
+#### Backoffice administratie voor personeelsbeheer van zorgorganisaties (Healthcare Administration)
 
-####
+De use-cases voor backoffice-administratie van zorgorganisaties betreffende het inschrijven van personen en het verlenen van rechten (via attributen) en het intrekken van rechten aan personen.
+
+
+
+<table><thead><tr><th>Use-case</th><th width="213">Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-HA-001</td><td>Authenticatie</td><td><ul><li>Organisatie beheerder</li><li>Organisatie operator</li></ul></td></tr><tr><td>ZID-UC-HA-002</td><td>Inschrijven Organisatie beheerder</td><td><ul><li>Organisatie beheerder</li></ul></td></tr><tr><td>ZID-UC-HA-003</td><td>Uitschrijven Organisatie beheerder</td><td><ul><li>Organisatie beheerder</li></ul></td></tr><tr><td>ZID-UC-HA-004</td><td>Inschrijven Organisatie aanvraag</td><td><ul><li>Organisatie beheerder</li></ul></td></tr><tr><td>ZID-UC-HA-005</td><td>Uitschrijven Organisatie aanvraag</td><td><ul><li>Organisatie beheerder</li></ul></td></tr><tr><td>ZID-UC-HA-006</td><td>Inschrijven Organisatie operator</td><td><ul><li>Organisatie beheerder</li></ul></td></tr><tr><td>ZID-UC-HA-007</td><td>Uitschrijven Organisatie operator</td><td><ul><li>Organisatie beheerder</li></ul></td></tr><tr><td>ZID-UC-HA-008</td><td>Inschrijven gebruiker</td><td><ul><li>Organisatie operator</li><li>Zorgmedewerker</li></ul></td></tr><tr><td>ZID-UC-HA-009</td><td>Uitschrijven gebruiker</td><td><ul><li>Organisatie operator</li></ul></td></tr><tr><td>ZID-UC-HA-010</td><td>Koppel gebruiker aan organisatie</td><td><ul><li>Organisatie operator</li></ul></td></tr><tr><td>ZID-UC-HA-011</td><td>Ontkoppel gebruiker van organisatie</td><td><ul><li>Organisatie operator</li></ul></td></tr><tr><td>ZID-UC-HA-012</td><td>Ken attribuut toe aan gebruiker</td><td><ul><li>Organisatie operator</li></ul></td></tr><tr><td>ZID-UC-HA-013</td><td>Trek attribuut in van gebruiker</td><td><ul><li>Organisatie operator</li></ul></td></tr></tbody></table>
 
 
 
