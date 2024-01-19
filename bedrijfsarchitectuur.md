@@ -19,7 +19,7 @@ ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificat
 
 * Compliance met wet- en regelgeving: Een PKI-infrastructuur kan helpen bij het voldoen aan andere relevante wetten en regelgeving, zoals de WDO (Wet Digitale Overheid) voor het veilig en betrouwbaar kunnen inloggen en eIDAS (electronic IDentification And trust Services) voor internationale interoperabiliteit.&#x20;
 * Het kunnen intrekking van toegangsrechten: PKI maakt het mogelijk om snel en effectief toegangsrechten in te trekken door het intrekken van digitale certificaten, wat bijdraagt aan NEN7512 waar specifieke eisen worden gesteld aan het intrekken van toegangsrechten bij hoog-risico-informatiesystemen.
-* Voldoen aan de specifieke eisen van NEN7510, NEN7511 en NEN7512 en tegelijkertijd de vertrouwelijkheid, integriteit en beschikbaarheid van zorginformatie kunnen waarborgen.
+* Voldoen aan de specifieke eisen van NEN7510, NEN7512 en NEN7513 en tegelijkertijd de vertrouwelijkheid, integriteit en beschikbaarheid van zorginformatie kunnen waarborgen.
   * Uitgifte en Toegangsbeheer: PKI biedt sterke authenticatie, waaronder de uitgifte en het gebruik van digitale identifiers (certificaten), wat bijdraagt aan het waarborgen van passende toegangsrechten tot zorginformatie.
   * Cryptografie: PKI maakt gebruik van sterke crypto grafische technieken, zoals digitale handtekeningen en versleuteling, om de vertrouwelijkheid en integriteit van informatie te waarborgen.
   * Elektronische identificatie en authenticatie met hoog betrouwbaarheidsniveau: PKI zorgt voor een betrouwbaar identificatie- en authenticatiemechanisme, waardoor logging en monitoring nauwkeuriger en traceerbaarder worden.
