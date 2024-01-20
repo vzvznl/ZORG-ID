@@ -18,7 +18,7 @@ Deze architectuur richt zich specifiek op centraal opgeslagen digitale identitei
 
 Het logisch model dat hieronder wordt weergegeven geeft een beschrijving van de betrokken ZORG-ID componenten en de aangeboden diensten.&#x20;
 
-<figure><img src=".gitbook/assets/image (13).png" alt=""><figcaption><p>Logisch model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14).png" alt=""><figcaption><p>Logisch model</p></figcaption></figure>
 
 ### Token gebaseerd Authenticatie en Autorisatie
 
