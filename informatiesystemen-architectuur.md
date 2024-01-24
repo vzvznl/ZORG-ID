@@ -18,7 +18,16 @@ Deze architectuur richt zich specifiek op centraal opgeslagen digitale identitei
 
 Het logisch model dat hieronder wordt weergegeven geeft een beschrijving van de betrokken ZORG-ID componenten en de aangeboden diensten.&#x20;
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Logisch model</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Componenten en interfaces
+
+| Component/Interface | Omschrijving                                                                                                                                                                                                                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Agent (Browser)     | Een op een gebruikersagent gebaseerde toepassing waarbij de clientcode wordt uitgevoerd binnen een gebruikersagent (bijvoorbeeld een webbrowser) op het apparaat dat wordt gebruikt door de eigenaar van de bron (dat wil zeggen, de eindgebruiker).                                       |
+| ZID Desktop App     | De ZID Desktop App is een eindgebruikerstoepassing die geïnstalleerd is op een Windows-desktopcomputer of een Apple OSX-desktopcomputer. De ZID Desktop App biedt het systeem de mogelijkheid om indirect met een smartcard te communiceren via de SDK en de ZID Server.                   |
+| UZI Card Reader     | De UZI Card Reader ontsluit de beveiliging van de certificaten op de UZI pas en de software op een desktop. Het ontsluiten van de beveiliging komt tot uiting in het vragen van een PIN code. Hierbij zijn er diverse afhankelijkheden van het operating systeem van de desktop of server. |
+| QR-code             | De QR-code wordt gebruikt om met een mobiele App in te loggen op een netwerk, dat wil zeggen zonder dat verdere inloggegevens ingevoerd hoeven te worden.                                                                                                                                  |
 
 ### Token gebaseerd Authenticatie en Autorisatie
 
