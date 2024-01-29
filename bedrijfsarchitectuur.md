@@ -51,12 +51,12 @@ ZORG-ID SMART (ZORG-ID met Smartphone) biedt verschillende functionaliteiten aan
 
 De volgende ZORG-ID Smart scenario's zijn uitgewerkt:
 
-* Een WID (Wet Identificatie bij Dienstverlening) scan kunnen uitvoeren (om de identiteit van een persoon vast te stellen a.d.h.v. een wettelijk identiteitsbewijs).&#x20;
-* Lokaal inloggen door (zorg) medewerkers met UZI-pas of Smartphone.
-* Lokale autorisatie vastleggen a.d.h.v. (uitgegeven en vastgelegde) attributen.
-* Ondertekenen met lokale identiteit met UZI-pas of Smartphone.
-* Ondertekenen van inschrijftoken voor landelijke gegevensuitwisseling via het Landelijk Schakelpunt (LSP).
-* Verificatie van ondertekening door middel van elektronische handtekening.
+1. Een WID (Wet Identificatie bij Dienstverlening) scan kunnen uitvoeren (om de identiteit van een persoon vast te stellen a.d.h.v. een wettelijk identiteitsbewijs).&#x20;
+2. Lokaal inloggen door (zorg) medewerkers met UZI-pas of Smartphone.
+3. Lokale autorisatie vastleggen a.d.h.v. (uitgegeven en vastgelegde) attributen.
+4. Ondertekenen met (lokale) identiteit met UZI-pas of Smartphone.
+5. Ondertekenen van inschrijftoken voor landelijke gegevensuitwisseling via het Landelijk Schakelpunt (LSP).
+6. Verificatie van ondertekening door middel van elektronische handtekening.
 
 ## Use-cases
 
