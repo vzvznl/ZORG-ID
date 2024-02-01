@@ -15,7 +15,7 @@ ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificat
 
 ## Kaders en richtlijnen
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Richtlijnen</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Richtlijnen</p></figcaption></figure>
 
 * Compliance met wet- en regelgeving: Een PKI-infrastructuur kan helpen bij het voldoen aan andere relevante wetten en regelgeving, zoals de WDO (Wet Digitale Overheid) voor het veilig en betrouwbaar kunnen inloggen en eIDAS (electronic IDentification And trust Services) voor internationale interoperabiliteit.&#x20;
 * Het kunnen intrekking van toegangsrechten: PKI maakt het mogelijk om snel en effectief toegangsrechten in te trekken door het intrekken van digitale certificaten, wat bijdraagt aan NEN7512 waar specifieke eisen worden gesteld aan het intrekken van toegangsrechten bij hoog-risico-informatiesystemen.
