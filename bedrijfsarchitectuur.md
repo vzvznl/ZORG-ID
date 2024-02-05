@@ -13,17 +13,19 @@ ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificat
 
 ## Positie van ZORG-ID
 
-## Kaders en richtlijnen
+## Kaders, richtlijnen en standaarden
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Richtlijnen</p></figcaption></figure>
+Voor een betrouwbaar platform voor identificatie, authenticatie en vertrouwensdiensten, zoals het kunnen zetten van een gekwalificeerde elektronische handtekening, zijn er verschillende kaders, richtlijnen en standaarden die van toepassing kunnen zijn, met name binnen de Europese Unie. Hier worden enkele belangrijke benoemd:
 
-* Compliance met wet- en regelgeving: Een PKI-infrastructuur kan helpen bij het voldoen aan andere relevante wetten en regelgeving, zoals de WDO (Wet Digitale Overheid) voor het veilig en betrouwbaar kunnen inloggen en eIDAS (electronic IDentification And trust Services) voor internationale interoperabiliteit.&#x20;
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>ZORG-ID Kaders, richtlijnen en standaarden</p></figcaption></figure>
+
+* Compliance met wet- en regelgeving: Een PKI-infrastructuur kan helpen bij het voldoen aan andere relevante wetten en regelgeving, zoals de WDO (Wet Digitale Overheid) voor het veilig en betrouwbaar kunnen inloggen en eIDAS (Electronic Identification and Trust Services) voor internationale interoperabiliteit.&#x20;
 * Het kunnen intrekking van toegangsrechten: PKI maakt het mogelijk om snel en effectief toegangsrechten in te trekken door het intrekken van digitale certificaten, wat bijdraagt aan NEN7512 waar specifieke eisen worden gesteld aan het intrekken van toegangsrechten bij hoog-risico-informatiesystemen.
-* Voldoen aan de specifieke eisen van NEN7510, NEN7512 en NEN7513 en tegelijkertijd de vertrouwelijkheid, integriteit en beschikbaarheid van zorginformatie kunnen waarborgen.
-  * Uitgifte en Toegangsbeheer: PKI biedt sterke authenticatie, waaronder de uitgifte en het gebruik van digitale identifiers (certificaten), wat bijdraagt aan het waarborgen van passende toegangsrechten tot zorginformatie.
+* Voldoen aan zorgsector specifieke eisen in Nederland, zoals de NEN7510, NEN7512 en NEN7513 en tegelijkertijd de vertrouwelijkheid, integriteit en beschikbaarheid van zorginformatie kunnen waarborgen.
+  * Uitgifte en Toegangsbeheer: PKI biedt sterke authenticatie, waaronder de uitgifte en het gebruik van digitale identifiers (publieke certificaten), wat bijdraagt aan het waarborgen van passende toegangsrechten tot zorginformatie.
   * Cryptografie: PKI maakt gebruik van sterke crypto grafische technieken, zoals digitale handtekeningen en versleuteling, om de vertrouwelijkheid en integriteit van informatie te waarborgen.
   * Elektronische identificatie en authenticatie met hoog betrouwbaarheidsniveau: PKI zorgt voor een betrouwbaar identificatie- en authenticatiemechanisme, waardoor logging en monitoring nauwkeuriger en traceerbaarder worden.
-* Toetsen van attributen: Een sterke identiteit wordt getoetst aan attributen om de organisatie, rol en codering van deze identiteit verder te specificeren. Zie ook eIDAS richtlijnen (Art. 6a).
+* Toetsen van (verifieerbare) attributen: Met een verifieerbaar attribuut kan specifieke eigenschappen of kenmerken van een entiteit worden geverifieerd, zoals organisatie, rol of bepaalde codering. Zie ook eIDAS richtlijnen (Art. 6a).
 * NIS2-richtlijnen (Netwerk- en Informatiesystemen) zijn eind 2022 vastgesteld door de Europese Unie en is gericht op een versterking van de digitale en economische weerbaarheid van de Europese lidstaten. Een PKI-infrastructuur (Public Key Infrastructure) voor authenticatie kan hierbij bijdragen aan de naleving van de NIS2-richtlijen door enkele kernprincipes van de richtlijn te ondersteunen, zoals:
   * Beveiliging van netwerk en Informatiesystemen. Zie toegangscontrole (Art. 7) en maatregelen voor beveiliging (Artikel 14)
   * Incidentenrapportage. Zie traceerbaarheid (Art. 14 en 15)
@@ -39,11 +41,11 @@ ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificat
 
 <table><thead><tr><th width="138">Bron</th><th>Eis</th></tr></thead><tbody><tr><td>Art. 6a (3)</td><td><p>Met Europese digitale identiteitsportemonnees kan de gebruiker: </p><p>(a) veilig opvragen en verkrijgen, opslaan, selecteren, combineren en delen, op een manier die transparant is voor en herleidbaar is voor de gebruiker, van de noodzakelijke identificatiegegevens van rechtspersonen en elektronische attesteringen van attributen om online en offline te authentiseren om online te gebruiken openbare en particuliere diensten;</p><p>(b) ondertekenen door middel van gekwalificeerde elektronische handtekeningen.</p></td></tr><tr><td>Art. 6a (4a)</td><td><p>Digitale identiteitsportemonnees bieden een generieke interface: </p><p>(1) aan gekwalificeerde en niet-gekwalificeerde vertrouwens-diensten die gekwalificeerde en niet-gekwalificeerde elektronische attesteringen van attributen of andere gekwalificeerde en niet-gekwalificeerde certificaten afgeven met het oog op de afgifte van dergelijke attesteringen en certificaten aan de European Digital Identity Wallet </p><p>(2) voor vertrouwende partijen om persoonsidentificatiegegevens en elektronische attesteringen van attributen op te vragen en te valideren </p><p>(3) voor de presentatie aan vertrouwende partijen van persoonsidentificatiegegevens, elektronische attestering van attributen of andere gegevens zoals inloggegevens, in lokale modus zonder internettoegang voor de portemonnee</p><p> (4) voor de gebruiker om interactie met de European Digital Identity Wallet mogelijk te maken en een "EU Digital Identity Wallet Trust Mark" te tonen</p></td></tr><tr><td>Art. 6a (4b)</td><td>Zekerstellen dat vertrouwensdiensten van gekwalificeerde attesteringen van attributen geen informatie kunnen ontvangen over het gebruik van deze attributen.</td></tr><tr><td>Art. 6a (4c)</td><td>Voldoen aan de vereisten van Artikel8 met betrekking tot het betrouwbaarheidsniveau "hoog", met name zoals toegepast op de vereisten voor identiteitsbewijs en -verificatie, en beheer en authenticatie van elektronische identificatiemiddelen.</td></tr><tr><td>Art. 6a (4d)</td><td>Zorgen voor een mechanisme om ervoor te zorgen dat de vertrouwende partij de gebruiker kan authentiseren en elektronische attesteringen van attributen kan ontvangen.</td></tr><tr><td>Art. 6a (4e)</td><td>Ervoor zorgen dat bedoelde persoonsidentificatiegegevens op unieke en duurzame wijze de natuurlijke of rechtspersoon vertegenwoordigen die ermee in verband wordt gebracht.</td></tr><tr><td>Art. 6a (7)</td><td>Persoonsgegevens met betrekking tot de levering van Europese digitale identiteitsportemonnees worden fysiek en logisch gescheiden van alle andere gegevens bewaard.</td></tr></tbody></table>
 
-* Conformiteitsbeoordeling en toetsing aan relevante European Telecommunication Standard Institute (ETSI) normen en eisen, zoals:
+* Conformiteitsbeoordeling en toetsing aan relevante European Telecommunication Standard Institute (ETSI) normen en eisen die relevant zijn voor eIDAS-conformiteit, zoals:
   * handtekening certificaten opgebouwd volgens het Qualified Certificate Profile
   * op tokens gebaseerde authenticatie en autorisatie waarbij ZORG-ID identiteiten biedt met ondertekening functionaliteit (NEN-EN 419241 - Betrouwbare systemen die server ondertekening ondersteunen)
   * Attributen geformatteerd als attribuutcertificaten  (NEN-ISO 17090-1:2021)
-  * Ondertekenen met behulp van een centraal opgeslagen sleutel door een gedecentraliseerd autorisatie mechanisme met behulp van een mobiel device (TS 119 432 SCAL2)
+  * Gekwalificeerd ondertekenen met behulp van een centraal opgeslagen sleutel door een gedecentraliseerd autorisatie mechanisme met behulp van een mobiel device (TS 119 432 SCAL2)
 
 ## Scenario's
 
