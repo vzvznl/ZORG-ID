@@ -21,21 +21,37 @@ Het CIBG heeft de missie om met de producten en diensten die zij levert, waarde 
 
 Op dit moment zijn er circa 93.000 passen in omloop, waarvan de helft wordt gebruikt voor het LSP.  Er is gebleken dat bij de ingebruikname van de UZI-pas enkele knelpunten in de zorgmarkt voordeden. Zie rapport Vooronderzoek authenticatie via UZI-pas in polikliniek ziekenhuizen – NVZ. Als antwoord op deze beperkingen die de UZI-pas met zich meebracht is **ZORG-ID** geïntroduceerd.
 
+<figure><img src=".gitbook/assets/image2022-1-14_14-25-52.png" alt=""><figcaption><p>Uit het NVZ-rapport</p></figcaption></figure>
+
 ZORG-ID is een algemeen toegankelijke implementatie van een platform dat het gebruik van de UZI-pas vereenvoudigd.&#x20;
 
 Het is niet voorbehouden aan alleen LSP-toepassingen, ook FSB (w.o. ColonIS) en andere zorgpartijen maken gebruik van ZORG-ID.
 
 ## ZORG-ID
 
-ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificatie en authenticatie in de zorg. ZORG-ID kent een veelheid aan toepassingen in de zorg, voldoet aan alle relevante standaarden van wet- en regelgeving en maakt een snelle en eenvoudige integratie mogelijk in zorgapplicaties ook met het oog op toekomstige ontwikkelingen en/of veranderingen op dit gebied.
+ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificatie en authenticatie in de zorg. Via de Software Development Kit (ZORG-ID SDK) kan op een vereenvoudigde manier met de UZI-pas gecommuniceerd worden, waardoor de UZI-pas snel en eenvoudig te integreren is met andere zorgtoepassingen. Het neemt de complexiteit weg van encryptie en signing technologie voor leveranciers en ondersteunt de zorgtoepassing bij het maken van AORTA-tokens, die benodigd zijn als onweerlegbaar bewijs dat gegevens door een zorgmedewerker worden opgevraagd.
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Smartcard identiteit</p></figcaption></figure>
+
+ZORG-ID kent een veelheid aan toepassingen in de zorg, voldoet aan alle relevante standaarden van wet- en regelgeving en maakt een snelle en eenvoudige integratie mogelijk in zorgapplicaties ook met het oog op toekomstige ontwikkelingen en/of veranderingen op dit gebied.
 
 ## Positie van ZORG-ID
+
+## ZORG-ID Smart
+
+Met de groeiende digitalisering van gegevensuitwisseling in de zorgsector wordt de noodzaak voor veilige en betrouwbare identificatie en authenticatie van zorgprofessionals steeds belangrijker. De huidige UZI (Unieke Zorgverlener Identificatie) middelen, zoals de UZI-pas, voldoen echter niet altijd aan de vereisten van moderne toepassingen en worden vaak als ontoereikend ervaren.
+
+Om deze uitdagingen aan te pakken, heeft ZORG-ID Smart tot doel nieuwe  authenticatie middelen te ontwikkelen die de bestaande UZI-middelen op termijn kunnen vervangen. Deze nieuwe middelen moeten niet alleen toekomstbestendig zijn, maar ook gebruiksvriendelijk en geschikt voor grootschalig gebruik in het zorgveld. Veiligheid, gebruiksgemak en de behoeften van de gebruikers staan hierbij centraal.
+
+De kern van deze oplossing ligt in de e-Wallet, een gebruiksvriendelijke en praktische toepassing die op de smartphones van zorgprofessionals kan worden geïnstalleerd. Met de e-Wallet hebben zorgprofessionals volledige controle over hun online interacties en aanwezigheid, waardoor ze veilig en efficiënt toegang krijgen tot de benodigde informatie.
+
+ZORG-ID Smart vertegenwoordigt een samensmelting van diverse producten en vertrouwensdiensten, waardoor de zorgsector in staat wordt gesteld om op een veilige manier informatie op te vragen, te verkrijgen, en op te slaan. Hierdoor kunnen zorgprofessionals online diensten gebruiken, gegevens delen en elektronisch ondertekenen met vertrouwen en gemak.
 
 ## Kaders, richtlijnen en standaarden
 
 Voor een betrouwbaar platform voor identificatie, authenticatie en vertrouwensdiensten, zoals het kunnen zetten van een gekwalificeerde elektronische handtekening, zijn er verschillende kaders, richtlijnen en standaarden die van toepassing kunnen zijn, met name binnen de Europese Unie. Hier worden enkele belangrijke benoemd:
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>ZORG-ID Kaders, richtlijnen en standaarden</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>ZORG-ID Kaders, richtlijnen en standaarden</p></figcaption></figure>
 
 * Compliance met wet- en regelgeving: Een PKI-infrastructuur kan helpen bij het voldoen aan andere relevante wetten en regelgeving, zoals de WDO (Wet Digitale Overheid) voor het veilig en betrouwbaar kunnen inloggen en eIDAS (Electronic Identification and Trust Services) voor internationale interoperabiliteit.&#x20;
 * Het kunnen intrekking van toegangsrechten: PKI maakt het mogelijk om snel en effectief toegangsrechten in te trekken door het intrekken van digitale certificaten, wat bijdraagt aan NEN7512 waar specifieke eisen worden gesteld aan het intrekken van toegangsrechten bij hoog-risico-informatiesystemen.
