@@ -7,6 +7,24 @@ description: >-
 
 # Bedrijfsarchitectuur
 
+## Inleiding
+
+VZVZ maakt zich sterk voor veilige en betrouwbare uitwisseling van medische gegevens via het LSP en behartigt de belangen van haar leden op dit gebied. Zorgverleners maken gebruik van een beveiligd netwerk om elektronisch medische gegevens te delen met andere zorgverleners: de zorginfrastructuur van het Landelijk Schakelpunt (LSP).&#x20;
+
+Veel zorgverleners gebruiken het LSP voor de uitwisseling van medicatie gegevens en huisartswaarneemgegevens. Gebruikers van het LSP kenmerken de berichten met digitale ondertekende tokens, als onweerlegbaar bewijs dat de medische gegevens alleen door een zorgverlener  worden opgevraagd, op basis van een authenticatie PKIO-certificaat afkomstig van de UZI-pas waarmee de digitale handtekening kan worden geverifieerd.&#x20;
+
+De UZI-pas wordt ook gebruikt door zorgmedewerkers en zorgverleners om lokaal in te loggen op zorgapplicaties om de verplichte twee-factor authenticatie vanuit de NEN-7510 te realiseren.&#x20;
+
+De UZI-pas wordt uitgegeven door het CIBG, een zelfstandig bestuursorgaan van Ministerie van VWS.  &#x20;
+
+Het CIBG heeft de missie om met de producten en diensten die zij levert, waarde te creëren voor haar klanten, de maatschappij en opdrachtgevers. Koppeling en ontsluiting van gegevens en de daaruit voortvloeiende interpretatie spelen hierbij een grote rol. Het CIBG is op dit moment in transitie en heeft de ambitie om binnen de rijksoverheid dé organisatie te worden op het gebied van registers voor (gewaarmerkte) identiteiten voor zorgmedewerkers en zorgverleners.&#x20;
+
+Op dit moment zijn er circa 93.000 passen in omloop, waarvan de helft wordt gebruikt voor het LSP.  Er is gebleken dat bij de ingebruikname van de UZI-pas enkele knelpunten in de zorgmarkt voordeden. Zie rapport Vooronderzoek authenticatie via UZI-pas in polikliniek ziekenhuizen – NVZ. Als antwoord op deze beperkingen die de UZI-pas met zich meebracht is **ZORG-ID** geïntroduceerd.
+
+ZORG-ID is een algemeen toegankelijke implementatie van een platform dat het gebruik van de UZI-pas vereenvoudigd.&#x20;
+
+Het is niet voorbehouden aan alleen LSP-toepassingen, ook FSB (w.o. ColonIS) en andere zorgpartijen maken gebruik van ZORG-ID.
+
 ## ZORG-ID
 
 ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificatie en authenticatie in de zorg. ZORG-ID kent een veelheid aan toepassingen in de zorg, voldoet aan alle relevante standaarden van wet- en regelgeving en maakt een snelle en eenvoudige integratie mogelijk in zorgapplicaties ook met het oog op toekomstige ontwikkelingen en/of veranderingen op dit gebied.
