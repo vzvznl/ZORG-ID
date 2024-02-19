@@ -9,15 +9,13 @@ description: >-
 
 ## Inleiding
 
-VZVZ maakt zich sterk voor veilige en betrouwbare uitwisseling van medische gegevens via het LSP en behartigt de belangen van haar leden op dit gebied. Zorgverleners maken gebruik van een beveiligd netwerk om elektronisch medische gegevens te delen met andere zorgverleners: de zorginfrastructuur van het Landelijk Schakelpunt (LSP).&#x20;
+Met de groeiende digitalisering van gegevensuitwisseling in de zorgsector wordt de noodzaak voor veilige en betrouwbare identificatie en authenticatie van zorgprofessionals steeds belangrijker. De huidige UZI (Unieke Zorgverlener Identificatie) middelen, zoals de UZI-pas, voldoen echter niet altijd aan de vereisten van moderne toepassingen en worden vaak als ontoereikend ervaren.
+
+De UZI-pas wordt uitgegeven door het CIBG, een zelfstandig bestuursorgaan van Ministerie van VWS en wordt veel gebruikt om lokaal in te loggen op zorgapplicaties om de verplichte twee-factor authenticatie vanuit de NEN-7510 te realiseren.&#x20;
+
+VZVZ maakt zich sterk voor veilige en betrouwbare uitwisseling van medische gegevens tussen zorgprofessionals en behartigt de belangen van haar leden op dit gebied. Zorgprofessionals kunnen hierbij gebruik maken van het Landelijk Schakelpunt (LSP), een beveiligd netwerk om elektronisch medische gegevens te delen met andere zorgverleners.
 
 Veel zorgverleners gebruiken het LSP voor de uitwisseling van medicatie gegevens en huisartswaarneemgegevens. Gebruikers van het LSP kenmerken de berichten met digitale ondertekende tokens, als onweerlegbaar bewijs dat de medische gegevens alleen door een zorgverlener  worden opgevraagd, op basis van een authenticatie PKIO-certificaat afkomstig van de UZI-pas waarmee de digitale handtekening kan worden geverifieerd.&#x20;
-
-De UZI-pas wordt ook gebruikt door zorgmedewerkers en zorgverleners om lokaal in te loggen op zorgapplicaties om de verplichte twee-factor authenticatie vanuit de NEN-7510 te realiseren.&#x20;
-
-De UZI-pas wordt uitgegeven door het CIBG, een zelfstandig bestuursorgaan van Ministerie van VWS.  &#x20;
-
-Het CIBG heeft de missie om met de producten en diensten die zij levert, waarde te creëren voor haar klanten, de maatschappij en opdrachtgevers. Koppeling en ontsluiting van gegevens en de daaruit voortvloeiende interpretatie spelen hierbij een grote rol. Het CIBG is op dit moment in transitie en heeft de ambitie om binnen de rijksoverheid dé organisatie te worden op het gebied van registers voor (gewaarmerkte) identiteiten voor zorgmedewerkers en zorgverleners.&#x20;
 
 Op dit moment zijn er circa 93.000 passen in omloop, waarvan de helft wordt gebruikt voor het LSP.  Er is gebleken dat bij de ingebruikname van de UZI-pas enkele knelpunten in de zorgmarkt voordeden. Zie rapport Vooronderzoek authenticatie via UZI-pas in polikliniek ziekenhuizen – NVZ. Als antwoord op deze beperkingen die de UZI-pas met zich meebracht is **ZORG-ID** geïntroduceerd.
 
@@ -25,7 +23,7 @@ Op dit moment zijn er circa 93.000 passen in omloop, waarvan de helft wordt gebr
 
 ZORG-ID is een algemeen toegankelijke implementatie van een platform dat het gebruik van de UZI-pas vereenvoudigd.&#x20;
 
-Het is niet voorbehouden aan alleen LSP-toepassingen, ook FSB (w.o. ColonIS) en andere zorgpartijen maken gebruik van ZORG-ID.
+Het is niet alleen voorbehouden aan de LSP-toepassingen, ook FSB (w.o. ColonIS) en andere zorgpartijen maken gebruik van ZORG-ID.
 
 ## ZORG-ID
 
@@ -33,17 +31,13 @@ ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificat
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Smartcard identiteit</p></figcaption></figure>
 
-ZORG-ID kent een veelheid aan toepassingen in de zorg, voldoet aan alle relevante standaarden van wet- en regelgeving en maakt een snelle en eenvoudige integratie mogelijk in zorgapplicaties ook met het oog op toekomstige ontwikkelingen en/of veranderingen op dit gebied.
-
-## Positie van ZORG-ID
-
 ## ZORG-ID Smart
 
 Met de groeiende digitalisering van gegevensuitwisseling in de zorgsector wordt de noodzaak voor veilige en betrouwbare identificatie en authenticatie van zorgprofessionals steeds belangrijker. De huidige UZI (Unieke Zorgverlener Identificatie) middelen, zoals de UZI-pas, voldoen echter niet altijd aan de vereisten van moderne toepassingen en worden vaak als ontoereikend ervaren.
 
 Om deze uitdagingen aan te pakken, heeft ZORG-ID Smart tot doel nieuwe  authenticatie middelen te ontwikkelen die de bestaande UZI-middelen op termijn kunnen vervangen. Deze nieuwe middelen moeten niet alleen toekomstbestendig zijn, maar ook gebruiksvriendelijk en geschikt voor grootschalig gebruik in het zorgveld. Veiligheid, gebruiksgemak en de behoeften van de gebruikers staan hierbij centraal.
 
-De kern van deze oplossing ligt in de e-Wallet, een gebruiksvriendelijke en praktische toepassing die op de smartphones van zorgprofessionals kan worden geïnstalleerd. Met de e-Wallet hebben zorgprofessionals volledige controle over hun online interacties en aanwezigheid, waardoor ze veilig en efficiënt toegang krijgen tot de benodigde informatie.
+De kern van deze oplossing ligt in de e-Wallet, een gebruiksvriendelijke en praktische toepassing die op smartphones van zorgprofessionals kan worden geïnstalleerd. Met de e-Wallet hebben zorgprofessionals volledige controle over hun online interacties en aanwezigheid, waardoor ze veilig en efficiënt toegang krijgen tot de benodigde informatie.
 
 ZORG-ID Smart vertegenwoordigt een samensmelting van diverse producten en vertrouwensdiensten, waardoor de zorgsector in staat wordt gesteld om op een veilige manier informatie op te vragen, te verkrijgen, en op te slaan. Hierdoor kunnen zorgprofessionals online diensten gebruiken, gegevens delen en elektronisch ondertekenen met vertrouwen en gemak.
 
