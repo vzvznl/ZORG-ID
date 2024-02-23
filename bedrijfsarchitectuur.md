@@ -41,6 +41,10 @@ De kern van deze oplossing ligt in de e-Wallet, een gebruiksvriendelijke en prak
 
 ZORG-ID Smart vertegenwoordigt een samensmelting van diverse producten en vertrouwensdiensten, waardoor de zorgsector in staat wordt gesteld om op een veilige manier informatie op te vragen, te verkrijgen, en op te slaan. Hierdoor kunnen zorgprofessionals online diensten gebruiken, gegevens delen en elektronisch ondertekenen met vertrouwen en gemak.
 
+ZORG-ID Smart ontsluit zijn diensten via een REST-service, vanwege hun eenvoud, flexibiliteit en schaalbaarheid voor XIS leveranciers. Ze vormen de ruggengraat van ZORG-ID Smart om gegevens en functionaliteit beschikbaar te stellen voor verschillende type clients, zoals webbrowsers, mobiele apparaten en andere diensten.
+
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
 ## Kaders, richtlijnen en standaarden
 
 Voor een betrouwbaar platform voor identificatie, authenticatie en vertrouwensdiensten, zoals het kunnen zetten van een gekwalificeerde elektronische handtekening, zijn er verschillende kaders, richtlijnen en standaarden die van toepassing kunnen zijn, met name binnen de Europese Unie. Hier worden enkele belangrijke benoemd:
