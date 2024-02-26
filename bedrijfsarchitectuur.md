@@ -132,7 +132,7 @@ De use-cases voor backoffice administratie van zorgorganisaties betreffende het 
 
 Het objectmodel voor ZORG-ID identificeert welke concepten relevant zijn voor ZORG-ID en het beschrijft de relaties tussen de objecten. Het figuur hieronder is een grafische weergave van de concepten en hun relaties. Achter het model staan de definities van de objecten beschreven.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption><p>Bedrijfsobjecten van ZORG-ID</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (18).png" alt=""><figcaption><p>De ZORG-ID identiteiten</p></figcaption></figure>
 
 | Object                        | Omschrijving                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
