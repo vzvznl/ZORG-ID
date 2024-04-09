@@ -106,9 +106,9 @@ De use cases voor eindgebruikers tonen de gebruiksscenario's die verband houden 
 
 Het gebruiksscenario 'patiënt aanmelden', waarin een ' inschrijftoken' wordt gecreëerd, wordt niet beschouwd als een gebruiksscenario vanuit ZORG-ID Smart. Deze use-case wordt geïmplementeerd door de aanvrager via een combinatie van de volgende use-case: 'Open Sessie', 'Ophalen Token' en 'Ondertekenen Token'.&#x20;
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (19).png" alt=""><figcaption><p>End-user use cases</p></figcaption></figure>
 
-<table><thead><tr><th width="202">Use-case</th><th>Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-EU-001</td><td>Open Sessie (authenticatie)</td><td><ul><li>Zorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-002</td><td>Scan WID</td><td><ul><li>Zorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-003</td><td>Ophalen Token</td><td><ul><li>Zorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-004</td><td>Ondertekenen Token</td><td><ul><li>Zorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-005</td><td>Inschrijven met UZI-pas</td><td><ul><li>Zorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="202">Use-case</th><th>Omschrijving</th><th>Betrokken actoren</th></tr></thead><tbody><tr><td>ZID-UC-EU-001</td><td>Open Sessie (authenticatie)</td><td><ul><li>Zorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-002</td><td>Scan WID</td><td><ul><li>Zorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr><tr><td>ZID-UC-EU-003</td><td>Ophalen Token</td><td><ul><li>Zorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-004</td><td>Ondertekenen Token</td><td><ul><li>Zorgtoepassing</li></ul></td></tr><tr><td>ZID-UC-EU-005</td><td>Registreren met UZI-pas</td><td><ul><li>Zorgtoepassing</li><li>(Zorg)medewerker</li></ul></td></tr></tbody></table>
 
 #### Backoffice administratie (Backoffice Administration)
 
