@@ -18,7 +18,7 @@ Deze architectuur richt zich specifiek op centraal opgeslagen digitale identitei
 
 Het logisch model dat hieronder wordt weergegeven geeft een beschrijving van de betrokken ZORG-ID componenten en de aangeboden diensten.&#x20;
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>De componenten van ZORG-ID</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>De componenten van ZORG-ID</p></figcaption></figure>
 
 ### Front-end componenten en interfaces
 

@@ -29,7 +29,7 @@ Het is niet alleen voorbehouden aan de LSP-toepassingen, ook FSB (w.o. ColonIS) 
 
 ZORG-ID is een generiek, centraal, veilig en vertrouwd platform voor identificatie en authenticatie in de zorg. Via de Software Development Kit (ZORG-ID SDK) kan op een vereenvoudigde manier met de UZI-pas gecommuniceerd worden, waardoor de UZI-pas snel en eenvoudig te integreren is met andere zorgtoepassingen. Het neemt de complexiteit weg van encryptie en signing technologie voor leveranciers en ondersteunt de zorgtoepassing bij het maken van AORTA-tokens, die benodigd zijn als onweerlegbaar bewijs dat gegevens door een zorgmedewerker worden opgevraagd.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Smartcard identiteit</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Smartcard identiteit</p></figcaption></figure>
 
 ## ZORG-ID Smart
 
@@ -49,7 +49,7 @@ ZORG-ID Smart ontsluit zijn diensten via een REST-service, vanwege hun eenvoud, 
 
 Voor een betrouwbaar platform voor identificatie, authenticatie en vertrouwensdiensten, zoals het kunnen zetten van een gekwalificeerde elektronische handtekening, zijn er verschillende kaders, richtlijnen en standaarden die van toepassing kunnen zijn, met name binnen de Europese Unie. Hier worden enkele belangrijke benoemd:
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>ZORG-ID Kaders, richtlijnen en standaarden</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>ZORG-ID Kaders, richtlijnen en standaarden</p></figcaption></figure>
 
 * Compliance met wet- en regelgeving: Een PKI-infrastructuur kan helpen bij het voldoen aan andere relevante wetten en regelgeving, zoals de WDO (Wet Digitale Overheid) voor het veilig en betrouwbaar kunnen inloggen en eIDAS (Electronic Identification and Trust Services) voor internationale interoperabiliteit.&#x20;
 * Het kunnen intrekking van toegangsrechten: PKI maakt het mogelijk om snel en effectief toegangsrechten in te trekken door het intrekken van digitale certificaten, wat bijdraagt aan NEN7512 waar specifieke eisen worden gesteld aan het intrekken van toegangsrechten bij hoog-risico-informatiesystemen.

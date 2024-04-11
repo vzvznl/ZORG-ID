@@ -4,7 +4,7 @@ description: Een gebruiker met UZI-pas kan zichzelf registreren bij ZORG-ID.
 
 # ZID-UC-EU-005 Registreren met UZI-pas
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Registratie proces met UZI-pas</p></figcaption></figure>
 
 ## Step-up registratieproces met UZI-pas
 
