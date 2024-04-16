@@ -10,4 +10,4 @@
     * [ZID-UC-EU-002 Scan WID](gebruikersscenarios/end-user/zid-uc-eu-002-scan-wid.md)
     * [ZID-UC-EU-005 Registreren met UZI-pas](gebruikersscenarios/end-user/zid-uc-eu-005-registreren-met-uzi-pas.md)
   * [Backoffice Administration](gebruikersscenarios/backoffice-administration/README.md)
-    * [ZID-UC-BA-009 Inschrijven zorgaanbieder met UZI-pas](gebruikersscenarios/backoffice-administration/zid-uc-ba-009-inschrijven-zorgaanbieder-met-uzi-pas.md)
+    * [ZID-UC-BA-009 Inschrijven Zorgaanbieder met UZI-pas](gebruikersscenarios/backoffice-administration/zid-uc-ba-009-inschrijven-zorgaanbieder-met-uzi-pas.md)
